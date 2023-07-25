@@ -43,6 +43,8 @@ header {
 img {
     display: block;
     margin: auto;
+    border: Black 8px double;
+    transition:all 0.15s linear;
 }
 
 
@@ -69,3 +71,10 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+img:hover {
+    transform:scale(1.2.9);
+    border: Black 15px solid;
+    transition: all 0.15s linear;
+}
+
