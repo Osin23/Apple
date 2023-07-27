@@ -56,4 +56,11 @@ li a:hover {
     background-color: #111;
 }
 
+.button{
+border: 3px black double;
+text-decoration: none;
+padding: 3px;
+position: relative;
+left: 45%;
 
+}
