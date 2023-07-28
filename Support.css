@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    font-family: Monospace;
+    text-shadow: 2px 2px 5px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Monospace;
+    text-shadow: 2px 2px 5px;
+}
+
+img {
+    border: Black 8px double;
+}
+
+header {
+    background-color: Black;
+    font-size: 40px;
+}
+
+.text{
+    text-align: center;
+    font-family: Monospace;
+    text-shadow: 2px 2px 5px #0E0874;
+    font-size: 17;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#BBBBBB ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
